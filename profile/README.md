@@ -10,16 +10,11 @@ Private AI for companies: on your own servers, in the cloud, or both. Small team
 
 Every engagement starts with a two-week assessment and a written answer.
 
-### Open source
+### Our products
 
-- [**auspex-cli**](https://github.com/Calexis-Labs/auspex-cli): network fault diagnosis on Arista EOS with Kestrel, a small model that runs on one machine. On 150 faults it had never seen, Kestrel got 102 right; the base model got 17. CLI and weights: Apache-2.0.
-- [**mufka**](https://github.com/batuhan-bas/mufka): your week and your notes, in one calm app for Mac and Windows. Local Markdown files only.
-
-### Our own products
-
-- [CodaDNS](https://codadns.com): parental controls that protect the whole home network and the kids' phones, without reading a single message.
-- [Auspex](https://www.calexislabs.com/auspex): the network diagnosis tool above.
-- [Mufka](https://mufka.app): the open source planner and notes app above.
-- [Nomad Peak](https://nomadpeak.app): a Mac menu bar app that keeps other apps from eating your data when you're on a phone hotspot. Coming soon to the Mac App Store.
+- [**Auspex**](https://www.calexislabs.com/auspex): network fault diagnosis on Arista EOS with Kestrel, a small model that runs on one machine. On 150 faults it had never seen, Kestrel got 102 right; the base model got 17. Open source, CLI and weights under Apache-2.0: [auspex-cli](https://github.com/Calexis-Labs/auspex-cli).
+- [**CodaDNS**](https://codadns.com): parental controls that protect the whole home network and the kids' phones, without reading a single message.
+- [**Mufka**](https://mufka.app): your week and your notes, in one calm app for Mac and Windows. Local Markdown files only. Open source: [mufka](https://github.com/batuhan-bas/mufka).
+- [**Nomad Peak**](https://nomadpeak.app): a Mac menu bar app that keeps other apps from eating your data when you're on a phone hotspot. Coming soon to the Mac App Store.
 
 [calexislabs.com](https://www.calexislabs.com) · [Blog](https://www.calexislabs.com/blog) · hello@calexislabs.com
